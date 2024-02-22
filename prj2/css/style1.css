@@ -1,0 +1,23 @@
+*{
+    margin: 20px;
+}
+body{
+    font-family:tahoma;
+}
+h1{
+    padding: 10px;
+    border: 15px;
+    border-style: dotted;
+    color: rgb(2, 87, 2);
+    text-align: center;
+    text-decoration: underline;
+    text-transform: uppercase;
+}
+p{
+    background-color: aqua;
+    color: red;
+    text-align: justify;
+}
+img{
+    width: 40%;
+}
